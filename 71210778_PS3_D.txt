@@ -1,0 +1,12 @@
+Algoritma pencarian nilai faktorial
+
+Pseudocode :
+x : bilangan >0
+if mencari faktorial dari x!
+    tampilkan  hasil x.(x-1).(x-2).(x-3).(....)
+else bilangan <0, maka akan muncul tulisan "Eror"
+
+contoh = 
+x : 6
+if mencari faktorial dari 6
+    tampilan hasil 6 . (6-1) . (6-2) . (6-3) . (6-4) . (6-5) 
